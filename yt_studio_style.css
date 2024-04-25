@@ -1,0 +1,199 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #F4F4F4;
+}
+
+.columnsecond {
+  width: 370px;
+  margin: 20px;
+}
+
+.columnfirst {
+  width: 370px;
+  margin: 20px;
+}
+
+.columnthird {
+  width: 370px;
+  margin: 20px;
+}
+
+.box {
+  padding: 20px;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.boxTitle {
+  font-size: 18px;
+  margin-bottom: 16px;
+}
+
+.thumbnailContainer {
+  height: 20px;
+  overflow: hidden;
+  border-radius: 3px;
+  margin-bottom: 18px;
+}
+
+.thumbnail {
+  width: 100%;
+  margin-top: -35px;
+}
+
+.performance {
+  margin-bottom: 10px;
+}
+
+.op {
+  opacity: 0.5;
+}
+
+.statContainer {
+  margin-bottom: 16px;
+}
+
+.stat {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 0px;
+}
+
+.link {
+  color: #1C5FD4;
+}
+
+.leftStat {
+  display: flex;
+  flex-direction: row;
+}
+
+.comment {
+  margin-top: 15px;
+}
+
+/* Second column */
+.secondColumnTitle {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.secondColumnImage {
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+.creator {
+  margin-bottom: 12px;
+}
+
+.fs {
+  font-size: 13px;
+}
+
+/* Third column */
+
+.subscriberCount {
+  font-size: 34px;
+}
+
+.cg {
+  color: green;
+}
+
+.divider {
+  height: 1px;
+  background-color: lightgray;
+  margin: 25px 0px;
+}
+
+.summaryContainer {
+  margin-bottom: 10px;
+}
+
+.summary {
+  margin-bottom: 3px;
+}
+
+.summaryStat {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0px;
+}
+
+.playlist {
+  display: flex;
+  padding: 5px 0px;
+  justify-content: space-between;
+}
+
+.overflowEllipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ffs {
+  font-size: 18px;
+  margin-left: 8px;
+}
+
+.fa-angle-left {
+  margin-right: 25px;
+}
+
+.Clover {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.secimg {
+  width: 50px;
+}
+
+.fas {
+  margin-right: 3px;
+}
+
+.Thank {
+  margin-left: 22px;
+  margin-top: 5px;
+}
+
+.three {
+  margin: 12px 0px;
+}
+
+.boxtop {
+  margin-top: 20px;
+}
+
+.down {
+  
+}
+
+.days {
+  margin: 2px 0px 20px;
+}
+
+.img {
+  border-radius: 1500px;
+  height: 50px;
+}
+
+.statlast {
+  display: flex;
+  justify-content: left;
+  padding: 8px 0px;
+}
+
