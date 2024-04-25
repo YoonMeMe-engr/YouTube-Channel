@@ -179,7 +179,8 @@ body {
 }
 
 .down {
-  
+  display: flex;
+  align-items: center;
 }
 
 .days {
